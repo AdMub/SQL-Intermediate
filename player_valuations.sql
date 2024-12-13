@@ -1,0 +1,1 @@
+SELECT * FROM football.player_valuations;
