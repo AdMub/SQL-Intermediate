@@ -14,7 +14,7 @@ Join us in this exciting continuation of your SQL learning adventure, and take y
 
 ## 🛠 Prerequisites
 
-To fully benefit from this campaign, you will need MySQL Workbench installed on your device. If you do not have it installed, refer to Step 5 of SQL Fundamental's Quest 1 for a detailed installation guide.
+To fully benefit from this campaign, you will need MySQL Workbench installed on your device.
 
 ## 🎯 Learning Outcomes
 
@@ -34,3 +34,67 @@ Write subqueries for complex operations.
 
 Utilize Common Table Expressions (CTEs) for organized queries.
 
+## 🚀 Quest Details
+
+### Quest 1: Window Functions in SQL
+
+#### Learning Outcomes:
+
+Understand and apply window functions.
+
+Leverage these functions for advanced data analysis.
+
+#### Description:
+
+In this quest, you’ll explore the power of window functions, which allow you to perform calculations across rows related to the current row within a query. By mastering window functions, you’ll gain the ability to write more sophisticated and efficient queries.
+
+### Quest 2: Advanced Filtering and Subqueries
+
+#### Learning Outcomes:
+
+Use advanced filtering techniques.
+
+Write and integrate subqueries into your SQL queries.
+
+Apply CASE WHEN for conditional query logic.
+
+####Description:
+
+This quest focuses on enhancing your query-building skills with advanced filtering functions, conditional logic using CASE WHEN, and subqueries. You'll discover how to create dynamic and reusable queries for complex data challenges.
+
+### Quest 3: Manipulating Date, Time, and Text Data
+
+#### Learning Outcomes:
+
+Handle datetime data types and perform arithmetic operations.
+
+Extract and modify datetime information using SQL functions.
+
+Parse and manipulate text data for precise alterations.
+
+#### Description:
+In this final quest, you’ll delve into datetime and text data manipulation, essential for real-world scenarios involving large datasets. Master the techniques to extract, transform, and organize such data effectively.
+
+
+
+## 📖 How to Get Started
+
+Clone this repository:
+
+bash
+
+git clone https://github.com/AdMub/SQL-Intermediate.git
+
+Open MySQL Workbench and set up the provided SQL scripts.
+
+## 📬 Support
+
+If you encounter any issues or have questions, feel free to reach out by opening an issue in this repository or contacting me directly.
+
+Follow the step-by-step instructions in each quest folder.
+
+## 🏆 Acknowledgments
+
+This campaign is a continuation of the SQL Fundamentals series and StackUp. A huge thank you to all contributors and supporters who made this learning journey possible!
+
+@StackUp
